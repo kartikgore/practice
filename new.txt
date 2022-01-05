@@ -1,0 +1,6 @@
+1. Show the journey of devops from traditional waterfall model
+2. Advantages of devops over agile development
+3. Benefits of using the devops
+4. Explain lifecycle of devops
+5. Various tools used for each phase of devops
+5. Difference between DVCS and CVCS

@@ -1,0 +1,11 @@
+Download Linux:
+Ubuntu Linux OS Link:
+https://ubuntu.com/#download
+
+For only Low end PC:(FOR 4GB RAM)
+https://cdimage.ubuntu.com/ubuntu-mate/releases/20.04/release/ubuntu-mate-20.04.3-desktop-amd64.iso
+
+
+Download Virtualbox:
+https://www.virtualbox.org/wiki/Downloads
+And Install it.
